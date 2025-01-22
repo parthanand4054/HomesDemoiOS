@@ -1,5 +1,7 @@
 # Homes Demo iOS
 
+Video Link: https://youtube.com/shorts/iqPbujpZfmY
+
 A quick demo project showing a home comparison feature built with SwiftUI. The app allows users to favorite homes and compare their selected properties in a detailed comparison view.
 * (Note: I spent just 2-3 hours working on this so there might be bugs)
 
